@@ -1,0 +1,1 @@
+This project is designed to store, manage, and display information about the Solar System, including details about planets, their moons, distances from the Sun, size, and other characteristics. It provides an easy way to access and organize astronomical data using structured programming concepts.
